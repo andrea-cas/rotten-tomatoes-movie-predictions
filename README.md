@@ -12,7 +12,7 @@ This project explores movie data from Rotten Tomatoes, performing sentiment anal
 #### Decision Tree and Random Forest Classification
 
 - **Accuracy**: The decision tree and random forest classifiers achieved accuracies of 99% and 99.26%, respectively, on the test data.
-- **Confusion Matrix**: The confusion matrices below show the distribution of predicted and actual classes:
+- **Confusion Matrix**: The confusion matrices below show the distribution of predicted and actual classes, where '0' = Rotten, '1' = Fresh and '2' = Certified-Fresh:
 
   - Decision Tree Confusion Matrix
     
