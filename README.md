@@ -14,10 +14,11 @@ This project explores movie data from Rotten Tomatoes, performing sentiment anal
 - **Accuracy**: The decision tree and random forest classifiers achieved accuracies of 99% and 99.26%, respectively, on the test data.
 - **Confusion Matrix**: The confusion matrices below show the distribution of predicted and actual classes:
 
-  - Decision Tree Confusion Matrix
-    <img width="638" alt="decision_tree_cm" src="https://github.com/andrea-cas/rotten_tomatoes_movie_predictions/assets/155782270/7d174293-419e-423f-ae16-0127f455f819">
-  - Random Forest Confusion Matrix
-    <img width="638" alt="random_forest_cm" src="https://github.com/andrea-cas/rotten_tomatoes_movie_predictions/assets/155782270/f4947c2f-7d56-4b6f-ae01-98149a77a239">
+  - Decision Tree Confusion Matrix:
+    <img width="500" alt="decision_tree_cm" src="https://github.com/andrea-cas/rotten_tomatoes_movie_predictions/assets/155782270/7d174293-419e-423f-ae16-0127f455f819">
+    
+  - Random Forest Confusion Matrix:
+    <img width="500" alt="random_forest_cm" src="https://github.com/andrea-cas/rotten_tomatoes_movie_predictions/assets/155782270/f4947c2f-7d56-4b6f-ae01-98149a77a239">
 
 
 ### Sentiment Analysis
